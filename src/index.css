@@ -57,3 +57,13 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+article img{
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  margin-right: -30px;
+  margin-bottom: -1rem;
+}
+article img:last-child{
+  margin-right: 5px;
+}
